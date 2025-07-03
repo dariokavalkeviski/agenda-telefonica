@@ -40,4 +40,4 @@ A interface é simples, funcional e ideal para quem está começando com Python.
 1. Instale o Python 3 (se ainda não tiver).
 2. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/dariokavalkeviski/weather-forecast.git
+   git clone https://github.com/dariokavalkeviski/agenda-telefonica/tree/main
